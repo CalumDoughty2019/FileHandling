@@ -1,0 +1,3 @@
+line 1: My name is Calum and I like seasnakes
+line 2: My snack is chocolate
+line 3: This is just another statement
